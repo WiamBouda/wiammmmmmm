@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi, I'm Wi'am 👋  
+
+I'm a data engineering student passionate about Big Data, AI, and turning raw data into meaningful insights.  
+Currently, I'm focused on building projects that strengthen my technical skills and prepare me for a career in data engineering or analytics.
+
+- 🔭 I’m currently working on end-to-end data engineering projects to build a strong portfolio.  
+- 🌱 I’m currently learning how to design data pipelines, work with cloud platforms, and improve my Python and SQL skills.  
+- 🔭 I’m looking to collaborate on projects that turn data into real-world insights.
 
 <!--
 **wiammmmmmm/wiammmmmmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
