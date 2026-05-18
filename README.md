@@ -1,23 +1,59 @@
-# Hi, I'm Wi'am 👋  
+# Hi, I'm Wiam 
 
-I'm a data engineering student passionate about Big Data, AI, and turning raw data into meaningful insights.  
-Currently, I'm focused on building projects that strengthen my technical skills and prepare me for a career in data engineering or analytics.
+**Data Engineering Student** | Building pipelines, warehouses, and analytics-ready data
 
-- 🔭 I’m currently working on end-to-end data engineering projects to build a strong portfolio.  
-- 🌱 I’m currently learning how to design data pipelines, work with cloud platforms, and improve my Python and SQL skills.  
-- 🔭 I’m looking to collaborate on projects that turn data into real-world insights.
+- Morocco 🎓 Big Data & AI Engineering
 
-<!--
-**wiammmmmmm/wiammmmmmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+##  Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Warehousing & Transformation**
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Analytics & Visualization**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat&logo=microsoft&logoColor=white)
+
+**Programming & Tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+### 🏗️ [SQL Data Warehouse — Retail Analytics](https://github.com/WiamBouda/sql-data-warehouse-project)
+> End-to-end data warehouse built with SQL Server using Medallion Architecture (Bronze → Silver → Gold).  
+> ELT pipeline from ERP & CRM sources · Star schema · Data quality checks · Power BI dashboard on Microsoft Fabric
+
+`SQL Server` `T-SQL` `Medallion Architecture` `Power BI` `Microsoft Fabric`
+
+---
+
+### ⚙️ [dbt Finance Analytics — Olist E-Commerce](https://github.com/WiamBouda/dbt-finance-analytics)
+> Finance analytics pipeline on 99K+ real orders using dbt and Snowflake.  
+> Data profiling → staging → marts · 58 tests passing · Fanout prevention · Column-level documentation
+
+`dbt` `Snowflake` `SQL` `ELT` `Data Quality` `Analytics Engineering`
+
+---
+
+## What I'm Working On
+
+-  Strengthening my Data Engineering portfolio
+-  Learning orchestration & cloud tools (Airflow · Azure Data Factory · Azure Cloud)
+-  Looking for a Junior Data Engineer opportunity starting July 2026
+
+---
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wiam-bouda-1ab741269)
