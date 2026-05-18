@@ -28,9 +28,9 @@
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-### 🏗️ [SQL Data Warehouse — Retail Analytics](https://github.com/WiamBouda/sql-data-warehouse-project)
+###  [SQL Data Warehouse — Retail Analytics](https://github.com/WiamBouda/sql-data-warehouse-project)
 > End-to-end data warehouse built with SQL Server using Medallion Architecture (Bronze → Silver → Gold).  
 > ELT pipeline from ERP & CRM sources · Star schema · Data quality checks · Power BI dashboard on Microsoft Fabric
 
@@ -38,7 +38,7 @@
 
 ---
 
-### ⚙️ [dbt Finance Analytics — Olist E-Commerce](https://github.com/WiamBouda/dbt-finance-analytics)
+###  [dbt Finance Analytics — Olist E-Commerce](https://github.com/WiamBouda/dbt-finance-analytics)
 > Finance analytics pipeline on 99K+ real orders using dbt and Snowflake.  
 > Data profiling → staging → marts · 58 tests passing · Fanout prevention · Column-level documentation
 
