@@ -2,7 +2,7 @@
 
 **Data Engineering Student** | Building pipelines, warehouses, and analytics-ready data
 
-- Morocco 🎓 Big Data & AI Engineering
+🎓 Big Data & AI Engineering
 
 ---
 
